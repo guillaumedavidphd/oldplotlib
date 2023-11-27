@@ -11,5 +11,5 @@ matplotlib = ">=3.7.1"
 
 
 [build-system]
-requires = ["poetry-core", "matplotlib"]
+requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
